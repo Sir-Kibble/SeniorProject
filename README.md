@@ -1,2 +1,1 @@
-# SeniorProject
-Dr. Xu deleted the original private repo, so here's a copy of it, probably not the latest version...
+Not actually my senior project, yet.  I've got to hunt it down off an old laptop.
